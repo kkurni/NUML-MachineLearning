@@ -1,1 +1,8 @@
 C:\projects\KK\NUML-MachineLearning\Sample.Console\bin\Debug\Sample.Console.exe.config
+C:\projects\KK\NUML-MachineLearning\Sample.Console\bin\Debug\Sample.Console.exe
+C:\projects\KK\NUML-MachineLearning\Sample.Console\bin\Debug\Sample.Console.pdb
+C:\projects\KK\NUML-MachineLearning\Sample.Console\bin\Debug\numl.dll
+C:\projects\KK\NUML-MachineLearning\Sample.Console\bin\Debug\numl.pdb
+C:\projects\KK\NUML-MachineLearning\Sample.Console\obj\Debug\Sample.Console.csprojResolveAssemblyReference.cache
+C:\projects\KK\NUML-MachineLearning\Sample.Console\obj\Debug\Sample.Console.exe
+C:\projects\KK\NUML-MachineLearning\Sample.Console\obj\Debug\Sample.Console.pdb
