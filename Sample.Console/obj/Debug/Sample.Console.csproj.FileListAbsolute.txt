@@ -1,0 +1,1 @@
+C:\projects\KK\NUML-MachineLearning\Sample.Console\bin\Debug\Sample.Console.exe.config
