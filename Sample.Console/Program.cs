@@ -22,6 +22,16 @@ namespace Sample.Console
             System.Console.WriteLine(model);
             System.Console.ReadKey();
 
+            var t = new Tennis
+            {
+                Outlook = Outlook.Overcast,
+                Temperature = Temperature.Low,
+                Windy = true
+            };
+            var result = model.Model.Predict(t);
+            System.Console.WriteLine(result.Play);
+           
+
 
         }
     }
